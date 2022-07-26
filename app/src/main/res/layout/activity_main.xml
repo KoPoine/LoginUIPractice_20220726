@@ -26,6 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="이메일 입력"
+        android:text="안녕하세요"
         android:maxLines="1"
         android:imeOptions="actionNext"
         android:inputType="textEmailAddress"/>
